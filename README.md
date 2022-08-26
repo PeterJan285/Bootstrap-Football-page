@@ -1,7 +1,7 @@
 # 🛠 Bootstrap Football page
 
 # 🔗 [Live Preview]()
-![Design preview](./img/preview.gif)
+![Design preview](./img/page-preview.png)
 
 ## Welcome! 👋
 
